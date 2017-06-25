@@ -1,0 +1,21 @@
+.form-group-sm .form-control,
+.form-control	
+{
+	border-radius: 0px;
+}
+
+.btn-flat
+{
+	border-radius: 0px;
+}
+
+.help-block
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+textarea
+{
+	resize: none;
+}
